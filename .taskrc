@@ -119,3 +119,6 @@ uda.size.default=medium
 
 color.uda.jirastatus.In Review=black on bright cyan
 color.uda.jirastatus.To Do=bright white
+
+color.project.foo=bold on yellow
+
