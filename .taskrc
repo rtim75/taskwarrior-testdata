@@ -121,4 +121,6 @@ color.uda.jirastatus.In Review=black on bright cyan
 color.uda.jirastatus.To Do=bright white
 
 color.project.foo=bold on yellow
+color.project.foobar=bold on green
+color.project.foo.bar=bold on red
 
